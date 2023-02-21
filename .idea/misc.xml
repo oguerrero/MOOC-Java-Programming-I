@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/part1/part01-Part01_34.Same/part01/Part01_34.Same/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_10.Story/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_26.Orwell/part01/Part01_26.Orwell/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_05.Message/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_27.Ancient/part01/Part01_27.Ancient/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_37.GiftTax/part01/Part01_37.GiftTax/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_04.Dinosaur/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_08.Greeting/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_33.Password/part01/Part01_33.Password/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_36.LeapYear/part01/Part01_36.LeapYear/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_29.Adulthood/part01/Part01_29.Adulthood/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_32.OddOrEven/part01/Part01_32.OddOrEven/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_28.Positivity/part01/Part01_28.Positivity/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_02.AdaLovelace/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_13.DoubleInput/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_09.Conversation/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_12.IntegerInput/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_14.BooleanInput/part01/Part01_14.BooleanInput/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_03.OnceUponATime/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_06.HiAdaLovelace/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_16.SecondsInADay/part01/Part01_16.SecondsInADay/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_24.SpeedingTicket/part01/Part01_24.SpeedingTicket/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_35.CheckingTheAge/part01/Part01_35.CheckingTheAge/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_17.SumOfTwoNumbers/part01/Part01_17.SumOfTwoNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_19.AdditionFormula/part01/Part01_19.AdditionFormula/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_31.GradesAndPoints/part01/Part01_31.GradesAndPoints/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_11.VariousVariables/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_23.SimpleCalculator/part01/Part01_23.SimpleCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_07.MessageThreeTimes/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_18.SumOfThreeNumbers/part01/Part01_18.SumOfThreeNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_21.AverageOfTwoNumbers/part01/Part01_21.AverageOfTwoNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_30.LargerThanOrEqualTo/part01/Part01_30.LargerThanOrEqualTo/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_25.CheckYourIndentation/part01/Part01_25.CheckYourIndentation/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_15.DifferentTypesOfInput/part01/Part01_15.DifferentTypesOfInput/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_20.MultiplicationFormula/part01/Part01_20.MultiplicationFormula/pom.xml" />
+        <option value="$PROJECT_DIR$/part1/part01-Part01_22.AverageOfThreeNumbers/part01/Part01_22.AverageOfThreeNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_01.Squared/part02/Part02_01.Squared/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_05.CarryOn/part02/Part02_05.CarryOn/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_14.Counting/part02/Part02_14.Counting/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_19.Factorial/part02/Part02_19.Factorial/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_10.SumOfNumbers/part02/Part02_10.SumOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_03.AbsoluteValue/part02/Part02_03.AbsoluteValue/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_06.AreWeThereYet/part02/Part02_06.AreWeThereYet/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_07.OnlyPositives/part02/Part02_07.OnlyPositives/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_17.SumOfASequence/part02/Part02_17.SumOfASequence/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_02.SquareRootOfSum/part02/Part02_02.SquareRootOfSum/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_08.NumberOfNumbers/part02/Part02_08.NumberOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_04.ComparingNumbers/part02/Part02_04.ComparingNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_12.AverageOfNumbers/part02/Part02_12.AverageOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_16.FromWhereToWhere/part02/Part02_16.FromWhereToWhere/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_15.CountingToHundred/part02/Part02_15.CountingToHundred/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_11.NumberAndSumOfNumbers/part02/Part02_11.NumberAndSumOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_09.NumberOfNegativeNumbers/part02/Part02_09.NumberOfNegativeNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_18.SumOfASequenceTheSequel/part02/Part02_18.SumOfASequenceTheSequel/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_13.AverageOfPositiveNumbers/part02/Part02_13.AverageOfPositiveNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part2/part02-Part02_20.RepeatingBreakingAndRemembering/part02/Part02_20.RepeatingBreakingAndRemembering/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>

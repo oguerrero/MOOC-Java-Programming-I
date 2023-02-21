@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Part01_31.gradesAndPoints" />
+        <module name="part01-Part01_05.Message" />
+        <module name="part01-Part01_08.Greeting" />
+        <module name="Part02_20.RepeatingBreakingAndRemembering" />
+        <module name="Part02_14.Counting" />
+        <module name="Part02_10.SumOfNumbers" />
+        <module name="Part02_12.AverageOfNumbers" />
+        <module name="Part02_08.NumberOfNumbers" />
+        <module name="Part02_09.NumberOfNegativeNumbers" />
+        <module name="Part01_25.CheckYourIndentation" />
+        <module name="part01-Part01_11.VariousVariables" />
+        <module name="Part02_01.Squared" />
+        <module name="java-programming-i" />
+        <module name="Part02_05.CarryOn" />
+        <module name="Part02_19.Factorial" />
+        <module name="Part02_11.NumberAndSumOfNumbers" />
+        <module name="Part02_18.SumOfASequenceTheSequel" />
+        <module name="Part02_03.AbsoluteValue" />
+        <module name="part01-Part01_10.Story" />
+        <module name="Part02_07.OnlyPositives" />
+        <module name="Part01_26.Orwell" />
+        <module name="Part01_22.AverageOfThreeNumbers" />
+        <module name="Part01_35.CheckingTheAge" />
+        <module name="Part01_19.AdditionFormula" />
+        <module name="Part01_21.AverageOfTwoNumbers" />
+        <module name="Part01_28.Positivity" />
+        <module name="Part02_06.AreWeThereYet" />
+        <module name="Part02_16.FromWhereToWhere" />
+        <module name="Part02_04.ComparingNumbers" />
+        <module name="Part02_02.SquareRootOfSum" />
+        <module name="Part01_32.OddOrEven" />
+        <module name="Part01_24.SpeedingTicket" />
+        <module name="Part01_30.LargerThanOrEqualTo" />
+        <module name="Part01_17.SumOfTwoNumbers" />
+        <module name="part01-Part01_04.Dinosaur" />
+        <module name="Part01_23.SimpleCalculator" />
+        <module name="Part02_17.SumOfASequence" />
+        <module name="Part02_13.AverageOfPositiveNumbers" />
+        <module name="part01-Part01_07.MessageThreeTimes" />
+        <module name="Part01_13.DoubleInput" />
+        <module name="Part01_33.Password" />
+        <module name="part01-Part01_12.IntegerInput" />
+        <module name="Part01_37.GiftTax" />
+        <module name="Part01_18.SumOfThreeNumbers" />
+        <module name="Part02_15.CountingToHundred" />
+        <module name="part01-Part01_03.OnceUponATime" />
+        <module name="Part01_34.Same" />
+        <module name="Part01_36.LeapYear" />
+        <module name="part01-Part01_06.HiAdaLovelace" />
+        <module name="Part01_14.BooleanInput" />
+        <module name="Part01_29.Adulthood" />
+        <module name="Part01_27.Ancient" />
+        <module name="Part01_15.DifferentTypesOfInput" />
+        <module name="Part01_16.SecondsInADay" />
+        <module name="Part01_20.MultiplicationFormula" />
+        <module name="part01-Part01_09.Conversation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-programming-i" target="19" />
+      <module name="part01-Part01_03.OnceUponATime" target="19" />
+      <module name="part01-Part01_04.Dinosaur" target="19" />
+      <module name="part01-Part01_05.Message" target="19" />
+      <module name="part01-Part01_06.HiAdaLovelace" target="19" />
+      <module name="part01-Part01_07.MessageThreeTimes" target="19" />
+      <module name="part01-Part01_08.Greeting" target="19" />
+      <module name="part01-Part01_09.Conversation" target="19" />
+      <module name="part01-Part01_10.Story" target="19" />
+      <module name="part01-Part01_11.VariousVariables" target="19" />
+      <module name="part01-Part01_12.IntegerInput" target="19" />
+      <module name="Part01_13.DoubleInput" target="1.8" />
+      <module name="Part01_14.BooleanInput" target="1.8" />
+      <module name="Part01_15.DifferentTypesOfInput" target="1.8" />
+      <module name="Part01_16.SecondsInADay" target="1.8" />
+      <module name="Part01_17.SumOfTwoNumbers" target="1.8" />
+      <module name="Part01_18.SumOfThreeNumbers" target="1.8" />
+      <module name="Part01_19.AdditionFormula" target="1.8" />
+      <module name="Part01_20.MultiplicationFormula" target="1.8" />
+      <module name="Part01_21.AverageOfTwoNumbers" target="1.8" />
+      <module name="Part01_22.AverageOfThreeNumbers" target="1.8" />
+      <module name="Part01_23.SimpleCalculator" target="1.8" />
+      <module name="Part01_24.SpeedingTicket" target="1.8" />
+      <module name="Part01_25.CheckYourIndentation" target="1.8" />
+      <module name="Part01_26.Orwell" target="1.8" />
+      <module name="Part01_27.Ancient" target="1.8" />
+      <module name="Part01_28.Positivity" target="1.8" />
+      <module name="Part01_29.Adulthood" target="1.8" />
+      <module name="Part01_30.LargerThanOrEqualTo" target="1.8" />
+      <module name="Part01_31.gradesAndPoints" target="1.8" />
+      <module name="Part01_32.OddOrEven" target="1.8" />
+      <module name="Part01_33.Password" target="1.8" />
+      <module name="Part01_34.Same" target="1.8" />
+      <module name="Part01_35.CheckingTheAge" target="1.8" />
+      <module name="Part01_36.LeapYear" target="1.8" />
+      <module name="Part01_37.GiftTax" target="1.8" />
+      <module name="Part02_01.Squared" target="1.8" />
+      <module name="Part02_02.SquareRootOfSum" target="1.8" />
+      <module name="Part02_03.AbsoluteValue" target="1.8" />
+      <module name="Part02_04.ComparingNumbers" target="1.8" />
+      <module name="Part02_05.CarryOn" target="1.8" />
+      <module name="Part02_06.AreWeThereYet" target="1.8" />
+      <module name="Part02_07.OnlyPositives" target="1.8" />
+      <module name="Part02_08.NumberOfNumbers" target="1.8" />
+      <module name="Part02_09.NumberOfNegativeNumbers" target="1.8" />
+      <module name="Part02_10.SumOfNumbers" target="1.8" />
+      <module name="Part02_11.NumberAndSumOfNumbers" target="1.8" />
+      <module name="Part02_12.AverageOfNumbers" target="1.8" />
+      <module name="Part02_13.AverageOfPositiveNumbers" target="1.8" />
+      <module name="Part02_14.Counting" target="1.8" />
+      <module name="Part02_15.CountingToHundred" target="1.8" />
+      <module name="Part02_16.FromWhereToWhere" target="1.8" />
+      <module name="Part02_17.SumOfASequence" target="1.8" />
+      <module name="Part02_18.SumOfASequenceTheSequel" target="1.8" />
+      <module name="Part02_19.Factorial" target="1.8" />
+      <module name="Part02_20.RepeatingBreakingAndRemembering" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
