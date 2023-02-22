@@ -1,5 +1,6 @@
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class GreatestInList {
@@ -9,7 +10,7 @@ public class GreatestInList {
 
         ArrayList<Integer> list = new ArrayList<>();
         while (true) {
-            int input = Integer.valueOf(scanner.nextLine());
+            int input = Integer.parseInt(scanner.nextLine());
             if (input == -1) {
                 break;
             }
@@ -17,8 +18,9 @@ public class GreatestInList {
             list.add(input);
         }
         
-        System.out.println("");
+        System.out.println();
 
         // implement finding the greatest number in the list here
+        System.out.println(Collections.max(list));
     }
 }

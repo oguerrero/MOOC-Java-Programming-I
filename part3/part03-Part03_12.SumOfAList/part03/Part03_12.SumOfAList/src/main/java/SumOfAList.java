@@ -9,7 +9,7 @@ public class SumOfAList {
 
         ArrayList<Integer> list = new ArrayList<>();
         while (true) {
-            int input = Integer.valueOf(scanner.nextLine());
+            int input = Integer.parseInt(scanner.nextLine());
             if (input == -1) {
                 break;
             }
@@ -17,8 +17,15 @@ public class SumOfAList {
             list.add(input);
         }
 
-        System.out.println("");
+        System.out.println();
 
-        // toteuta listan lukujen summan laskeminen tänne
+        int sum = 0;
+        for (int number : list) {
+            sum += number;
+        }
+
+        System.out.println("Sum: " + sum);
+
+        scanner.close();
     }
 }
