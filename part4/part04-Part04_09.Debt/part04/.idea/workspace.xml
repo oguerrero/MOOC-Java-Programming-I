@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="205603ae-f675-457d-9d10-77e5d045df2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../part04-Part04_03.DogAttributes/part04/Part04_03.DogAttributes/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part04-Part04_04.Room/part04/Part04_04.Room/src/main/java/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part04-Part04_05.Whistle/part04/Part04_05.Whistle/src/main/java/Whistle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part04-Part04_06.Door/part04/Part04_06.Door/src/main/java/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part04-Part04_07.Product/part04/Part04_07.Product/src/main/java/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part04-Part04_01.YourFirstAccount/part04/Part04_01.YourFirstAccount/src/main/java/YourFirstAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../part04-Part04_01.YourFirstAccount/part04/Part04_01.YourFirstAccount/src/main/java/YourFirstAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part04-Part04_02.YourFirstBankTransfer/part04/Part04_02.YourFirstBankTransfer/src/main/java/YourFirstBankTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../part04-Part04_02.YourFirstBankTransfer/part04/Part04_02.YourFirstBankTransfer/src/main/java/YourFirstBankTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part04-Part04_08.DecreasingCounter/part04/Part04_08.DecreasingCounter/src/main/java/DecreasingCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../part04-Part04_08.DecreasingCounter/part04/Part04_08.DecreasingCounter/src/main/java/DecreasingCounter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2M6We6GcODoVxcuZWZEVLkSa4SR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/oguerrero/Documentos/Java-Mooc/part4",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205603ae-f675-457d-9d10-77e5d045df2a" name="Changes" comment="" />
+      <created>1677088604932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677088604932</updated>
+      <workItem from="1677088606057" duration="27000" />
+      <workItem from="1677088635820" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
