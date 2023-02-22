@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Part05_13.IdenticalTwins" />
+        <module name="Part05_10.CardPayments" />
+        <module name="Part05_14.Books" />
+        <module name="Part05_08.BiggestPetShop" />
+        <module name="Part05_15.Archive" />
+        <module name="Part05_06.OverloadedCounter" />
+        <module name="Part05_16.DatingApp" />
+        <module name="Part05_09.HealthStation" />
+        <module name="Part05_07.NullPointerException" />
+        <module name="Part05_05.ConstructorOverload" />
+        <module name="Part05_04.Fitbyte" />
+        <module name="Part05_03.Cube" />
+        <module name="Part05_17.Money" />
+        <module name="Part05_02.Book" />
+        <module name="Part05_01.OneMinute" />
+        <module name="Part05_11.ComparingApartments" />
+        <module name="Part05_12.Song" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Part05_01.OneMinute" target="1.8" />
+      <module name="Part05_02.Book" target="1.8" />
+      <module name="Part05_03.Cube" target="1.8" />
+      <module name="Part05_04.Fitbyte" target="1.8" />
+      <module name="Part05_05.ConstructorOverload" target="1.8" />
+      <module name="Part05_06.OverloadedCounter" target="1.8" />
+      <module name="Part05_07.NullPointerException" target="1.8" />
+      <module name="Part05_08.BiggestPetShop" target="1.8" />
+      <module name="Part05_09.HealthStation" target="1.8" />
+      <module name="Part05_10.CardPayments" target="1.8" />
+      <module name="Part05_11.ComparingApartments" target="1.8" />
+      <module name="Part05_12.Song" target="1.8" />
+      <module name="Part05_13.IdenticalTwins" target="1.8" />
+      <module name="Part05_14.Books" target="1.8" />
+      <module name="Part05_15.Archive" target="1.8" />
+      <module name="Part05_16.DatingApp" target="1.8" />
+      <module name="Part05_17.Money" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

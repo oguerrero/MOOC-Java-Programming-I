@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_01.OneMinute/part05/Part05_01.OneMinute/Part05_01.OneMinute.iml" filepath="$PROJECT_DIR$/part05-Part05_01.OneMinute/part05/Part05_01.OneMinute/Part05_01.OneMinute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_02.Book/part05/Part05_02.Book/Part05_02.Book.iml" filepath="$PROJECT_DIR$/part05-Part05_02.Book/part05/Part05_02.Book/Part05_02.Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_03.Cube/part05/Part05_03.Cube/Part05_03.Cube.iml" filepath="$PROJECT_DIR$/part05-Part05_03.Cube/part05/Part05_03.Cube/Part05_03.Cube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_04.FitByte/part05/Part05_04.FitByte/Part05_04.Fitbyte.iml" filepath="$PROJECT_DIR$/part05-Part05_04.FitByte/part05/Part05_04.FitByte/Part05_04.Fitbyte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_05.ConstructorOverload/part05/Part05_05.ConstructorOverload/Part05_05.ConstructorOverload.iml" filepath="$PROJECT_DIR$/part05-Part05_05.ConstructorOverload/part05/Part05_05.ConstructorOverload/Part05_05.ConstructorOverload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_06.OverloadedCounter/part05/Part05_06.OverloadedCounter/Part05_06.OverloadedCounter.iml" filepath="$PROJECT_DIR$/part05-Part05_06.OverloadedCounter/part05/Part05_06.OverloadedCounter/Part05_06.OverloadedCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_07.NullPointerException/part05/Part05_07.NullPointerException/Part05_07.NullPointerException.iml" filepath="$PROJECT_DIR$/part05-Part05_07.NullPointerException/part05/Part05_07.NullPointerException/Part05_07.NullPointerException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_08.BiggestPetShop/part05/Part05_08.BiggestPetShop/Part05_08.BiggestPetShop.iml" filepath="$PROJECT_DIR$/part05-Part05_08.BiggestPetShop/part05/Part05_08.BiggestPetShop/Part05_08.BiggestPetShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_09.HealthStation/part05/Part05_09.HealthStation/Part05_09.HealthStation.iml" filepath="$PROJECT_DIR$/part05-Part05_09.HealthStation/part05/Part05_09.HealthStation/Part05_09.HealthStation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_10.CardPayments/part05/Part05_10.CardPayments/Part05_10.CardPayments.iml" filepath="$PROJECT_DIR$/part05-Part05_10.CardPayments/part05/Part05_10.CardPayments/Part05_10.CardPayments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_11.ComparingApartments/part05/Part05_11.ComparingApartments/Part05_11.ComparingApartments.iml" filepath="$PROJECT_DIR$/part05-Part05_11.ComparingApartments/part05/Part05_11.ComparingApartments/Part05_11.ComparingApartments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_12.Song/part05/Part05_12.Song/Part05_12.Song.iml" filepath="$PROJECT_DIR$/part05-Part05_12.Song/part05/Part05_12.Song/Part05_12.Song.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_13.IdenticalTwins/part05/Part05_13.IdenticalTwins/Part05_13.IdenticalTwins.iml" filepath="$PROJECT_DIR$/part05-Part05_13.IdenticalTwins/part05/Part05_13.IdenticalTwins/Part05_13.IdenticalTwins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_14.Books/part05/Part05_14.Books/Part05_14.Books.iml" filepath="$PROJECT_DIR$/part05-Part05_14.Books/part05/Part05_14.Books/Part05_14.Books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_15.Archive/part05/Part05_15.Archive/Part05_15.Archive.iml" filepath="$PROJECT_DIR$/part05-Part05_15.Archive/part05/Part05_15.Archive/Part05_15.Archive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_16.DatingApp/part05/Part05_16.DatingApp/Part05_16.DatingApp.iml" filepath="$PROJECT_DIR$/part05-Part05_16.DatingApp/part05/Part05_16.DatingApp/Part05_16.DatingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part05-Part05_17.Money/part05/Part05_17.Money/Part05_17.Money.iml" filepath="$PROJECT_DIR$/part05-Part05_17.Money/part05/Part05_17.Money/Part05_17.Money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/part5.iml" filepath="$PROJECT_DIR$/.idea/part5.iml" />
+    </modules>
+  </component>
+</project>

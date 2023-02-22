@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/part05-Part05_02.Book/part05/Part05_02.Book/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_03.Cube/part05/Part05_03.Cube/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_12.Song/part05/Part05_12.Song/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_14.Books/part05/Part05_14.Books/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_17.Money/part05/Part05_17.Money/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_04.FitByte/part05/Part05_04.FitByte/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_15.Archive/part05/Part05_15.Archive/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_01.OneMinute/part05/Part05_01.OneMinute/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_16.DatingApp/part05/Part05_16.DatingApp/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_10.CardPayments/part05/Part05_10.CardPayments/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_09.HealthStation/part05/Part05_09.HealthStation/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_08.BiggestPetShop/part05/Part05_08.BiggestPetShop/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_13.IdenticalTwins/part05/Part05_13.IdenticalTwins/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_06.OverloadedCounter/part05/Part05_06.OverloadedCounter/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_05.ConstructorOverload/part05/Part05_05.ConstructorOverload/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_11.ComparingApartments/part05/Part05_11.ComparingApartments/pom.xml" />
+        <option value="$PROJECT_DIR$/part05-Part05_07.NullPointerException/part05/Part05_07.NullPointerException/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>
