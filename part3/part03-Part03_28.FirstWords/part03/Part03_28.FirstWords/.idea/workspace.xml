@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adbd3e42-dc43-40fe-91ea-0e76f787120d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_01.ThirdElement/part03/Part03_01.ThirdElement/src/main/java/ThirdElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_01.ThirdElement/part03/Part03_01.ThirdElement/src/main/java/ThirdElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_02.SecondPlusThird/part03/Part03_02.SecondPlusThird/src/main/java/SecondPlusThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_02.SecondPlusThird/part03/Part03_02.SecondPlusThird/src/main/java/SecondPlusThird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_03.IndexOutOfBoundsException/part03/Part03_03.IndexOutOfBoundsException/src/main/java/IoobProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_03.IndexOutOfBoundsException/part03/Part03_03.IndexOutOfBoundsException/src/main/java/IoobProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_04.ListSize/part03/Part03_04.ListSize/src/main/java/ListSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_04.ListSize/part03/Part03_04.ListSize/src/main/java/ListSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_05.LastInList/part03/Part03_05.LastInList/src/main/java/LastInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_05.LastInList/part03/Part03_05.LastInList/src/main/java/LastInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_06.FirstAndLast/part03/Part03_06.FirstAndLast/src/main/java/FirstAndLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_06.FirstAndLast/part03/Part03_06.FirstAndLast/src/main/java/FirstAndLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_07.RememberTheseNumbers/part03/Part03_07.RememberTheseNumbers/src/main/java/RememberTheseNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_07.RememberTheseNumbers/part03/Part03_07.RememberTheseNumbers/src/main/java/RememberTheseNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_08.OnlyTheseNumbers/part03/Part03_08.OnlyTheseNumbers/src/main/java/OnlyTheseNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_08.OnlyTheseNumbers/part03/Part03_08.OnlyTheseNumbers/src/main/java/OnlyTheseNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_09.GreatestInList/part03/Part03_09.GreatestInList/src/main/java/GreatestInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_09.GreatestInList/part03/Part03_09.GreatestInList/src/main/java/GreatestInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_10.IndexOf/part03/Part03_10.IndexOf/src/main/java/IndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_10.IndexOf/part03/Part03_10.IndexOf/src/main/java/IndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_11.IndexOfSmallest/part03/Part03_11.IndexOfSmallest/src/main/java/IndexOfSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_11.IndexOfSmallest/part03/Part03_11.IndexOfSmallest/src/main/java/IndexOfSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_12.SumOfAList/part03/Part03_12.SumOfAList/src/main/java/SumOfAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_12.SumOfAList/part03/Part03_12.SumOfAList/src/main/java/SumOfAList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_13.AverageOfAList/part03/Part03_13.AverageOfAList/src/main/java/AverageOfAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_13.AverageOfAList/part03/Part03_13.AverageOfAList/src/main/java/AverageOfAList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_14.OnTheList/part03/Part03_14.OnTheList/src/main/java/OnTheList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_14.OnTheList/part03/Part03_14.OnTheList/src/main/java/OnTheList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_15.PrintInRange/part03/Part03_15.PrintInRange/src/main/java/PrintInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_15.PrintInRange/part03/Part03_15.PrintInRange/src/main/java/PrintInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_16.Sum/part03/Part03_16.Sum/src/main/java/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_16.Sum/part03/Part03_16.Sum/src/main/java/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_17.RemoveLast/part03/Part03_17.RemoveLast/src/main/java/RemoveLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_17.RemoveLast/part03/Part03_17.RemoveLast/src/main/java/RemoveLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_18.Swap/part03/Part03_18.Swap/src/main/java/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_18.Swap/part03/Part03_18.Swap/src/main/java/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_19.IndexWasNotFound/part03/Part03_19.IndexWasNotFound/src/main/java/IndexWasNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_19.IndexWasNotFound/part03/Part03_19.IndexWasNotFound/src/main/java/IndexWasNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_20.SumOfArray/part03/Part03_20.SumOfArray/src/main/java/SumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_20.SumOfArray/part03/Part03_20.SumOfArray/src/main/java/SumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_21.PrintNeatly/part03/Part03_21.PrintNeatly/src/main/java/ArrayPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_21.PrintNeatly/part03/Part03_21.PrintNeatly/src/main/java/ArrayPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_22.PrintInStars/part03/Part03_22.PrintInStars/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_22.PrintInStars/part03/Part03_22.PrintInStars/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_23.PrintThrice/part03/Part03_23.PrintThrice/src/main/java/PrintThrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_23.PrintThrice/part03/Part03_23.PrintThrice/src/main/java/PrintThrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_24.IsItTrue/part03/Part03_24.IsItTrue/src/main/java/IsItTrue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_24.IsItTrue/part03/Part03_24.IsItTrue/src/main/java/IsItTrue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_25.Login/part03/Part03_25.Login/src/main/java/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_25.Login/part03/Part03_25.Login/src/main/java/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_26.LineByLine/part03/Part03_26.LineByLine/src/main/java/LineByLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_26.LineByLine/part03/Part03_26.LineByLine/src/main/java/LineByLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part03-Part03_27.AVClub/part03/Part03_27.AVClub/src/main/java/AVClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../part03-Part03_27.AVClub/part03/Part03_27.AVClub/src/main/java/AVClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstWords.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M6QwBN3U6daWcl1OX83N5VIwhx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/oguerrero/Documentos/Java-Mooc/part3/part03-Part03_29.LastWords/part03/Part03_29.LastWords",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adbd3e42-dc43-40fe-91ea-0e76f787120d" name="Changes" comment="" />
+      <created>1677085788530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677085788530</updated>
+      <workItem from="1677085789586" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
