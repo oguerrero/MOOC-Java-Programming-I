@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcd2e4d3-9806-43e3-9d6b-e920623c527a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../part05-Part05_01.OneMinute/part05/Part05_01.OneMinute/src/main/java/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../part05-Part05_02.Book/part05/Part05_02.Book/src/main/java/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part4/part04-Part04_26.GuestListFromAFile.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part4/part04-Part04_27.IsItInTheFile.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part4/part04-Part04_28.NumbersFromAFile.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part4/part04-Part04_29.RecordsFromAFile.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part4/part04-Part04_30.StoringRecords.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../part4/part04-Part04_31.SportStatistics.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2M6fMb2y4wUNy44UIwPoI4TOtbr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/oguerrero/Documentos/Java-Mooc/part5/part05-Part05_03.Cube/part05/Part05_03.Cube&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcd2e4d3-9806-43e3-9d6b-e920623c527a" name="Changes" comment="" />
+      <created>1677092905243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677092905243</updated>
+      <workItem from="1677092906500" duration="5000" />
+      <workItem from="1677092916045" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
