@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 public class SimpleDictionary {
 
-    private HashMap<String, String> translations;
+    private final HashMap<String, String> translations;
 
     public SimpleDictionary() {
         this.translations = new HashMap<>();

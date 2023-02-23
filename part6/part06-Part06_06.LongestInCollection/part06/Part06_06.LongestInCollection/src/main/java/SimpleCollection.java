@@ -19,4 +19,9 @@ public class SimpleCollection {
         return this.elements;
     }
 
+    public String longest() {
+        return this.elements.stream()
+                .max((s1, s2) -> s1.length() - s2.length())
+                .orElse(null);
+    }
 }
