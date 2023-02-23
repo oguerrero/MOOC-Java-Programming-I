@@ -4,7 +4,7 @@
 
 public class Person {
 
-    private String name;
+    private final String name;
     private int age;
     private int height;
     private int weight;
@@ -25,11 +25,7 @@ public class Person {
     }
 
     public boolean isOfLegalAge() {
-        if (this.age > 17) {
-            return true;
-        }
-
-        return false;
+        return this.age > 17;
     }
 
     public void setHeight(int height) {
